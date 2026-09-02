@@ -1,0 +1,1 @@
+int angka = 8;
