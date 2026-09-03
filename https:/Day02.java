@@ -19,6 +19,6 @@ public class Main {
 
 		System.out.printf("kota  =  ℅s℅n", kota);
 
-		System.out.printf("umur  =  ℅d tahun℅n", 18);
+		System.out.printf("umur  =  ℅d tahun℅n", umur);
 	}
 }
