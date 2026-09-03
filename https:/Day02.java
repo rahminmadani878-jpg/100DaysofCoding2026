@@ -16,5 +16,9 @@ public class Main {
 		//menggunakan printf()
 		String kota = "Kab.Majene";
 		int umur = 18;
+
+		System.out.printf("kota  =  ℅s℅n", kota);
+
+		System.out.printf("umur  =  ℅d tahun℅n", 18);
 	}
 }
