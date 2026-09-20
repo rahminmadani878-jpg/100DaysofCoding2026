@@ -15,5 +15,7 @@ public class Main {
         System.out.println("Asli    = " + harga);
         System.out.println("int     = " + hargaBulat);
         System.out.println("byte    = " + hargaPalingKecil);
+
+		input.close();
 	}
 }
