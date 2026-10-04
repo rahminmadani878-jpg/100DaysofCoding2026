@@ -7,7 +7,7 @@ public class CekPassword {
         System.out.print("Masukkan password: ");
         int password = input.nextInt();
 
-        if (password.equals("12345")) {
+        if (password== 12345) {
             System.out.println("Login berhasil");
         } else {
             System.out.println("Password salah");
