@@ -4,7 +4,7 @@ public class TiketBioskop {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
-        System.out.println("=== PEMBELIAN TIKET BIOSKOP ===");
+        System.out.println("PEMBELIAN TIKET BIOSKOP");
         System.out.println("1. Regular - Rp40000");
         System.out.println("2. Sweetbox - Rp60000");
         System.out.println("3. VIP - Rp90000");
